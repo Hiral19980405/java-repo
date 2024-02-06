@@ -1,0 +1,11 @@
+<suite name = "gadgetsgallery">
+	
+	<suite-files>
+		
+		<suite-file path="./src/test/java/TestResults/TestModule1.xml"></suite-file>
+		<suite-file path="./src/test/java/TestResults/TestModule2.xml"></suite-file>
+		
+	</suite-files>
+	
+	
+</suite>
